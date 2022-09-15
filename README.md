@@ -8,7 +8,7 @@
  
  ### Description
  
- These are codes which represents how to write SQL syntaxs using Psycopg2 Connected to postgress database. 
+ These codes represents how to write SQL syntaxs using Psycopg2 Connected to postgress database. 
  Import all dependencies like psycopg2,sqlite3 etc...
  Create variables and pass localhost,db-username,dbname etc...
  Connect to psycopgy2,create scripts and remember to commit() and close() all connections
